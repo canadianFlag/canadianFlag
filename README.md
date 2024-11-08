@@ -17,7 +17,7 @@
 <p> I'm also a digital artist.</p>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-<img src = "https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
+<img src = "https://raw.githubusercontent.com/canadianFlag/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
 <!--
 <img src = "https://raw.githubusercontent.com/canadianFlag/github-stats-transparent/output/generated/languages.svg" style="max-width: 40%; height: auto;">
 -->
